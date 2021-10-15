@@ -1,0 +1,3 @@
+
+
+shero=loadImage('shero.jpeg')
